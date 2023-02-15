@@ -5,4 +5,4 @@ layout: default
 ---
 
 #
-This is the content of the blog post
+
